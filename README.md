@@ -1,6 +1,7 @@
 #premkum3
 Commit msg test
 
+Test for jira commit
 
 -------------------------------------
 DEMO 
